@@ -10,7 +10,3 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
-
-// unkown part of lesson
-
-// new code comment
